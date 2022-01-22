@@ -5,9 +5,9 @@
 
 **Step 2:**
 ```
-mvn clean install
+npm install
 ```
 **Step 3: Run the Spring Boot application**
 ```
-mvn spring-boot:run
+npm start
 ```
