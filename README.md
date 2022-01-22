@@ -7,7 +7,7 @@
 ```
 npm install
 ```
-**Step 3: Run the Spring Boot application**
+**Step 3: Run the Frontend application**
 ```
 npm start
 ```
